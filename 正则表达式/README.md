@@ -1,6 +1,6 @@
 # 正则表达式   
 
->正则适用范围:各大编程语言通用
+>正则表达式适用范围:各大编程语言通用
 
 [在线教程](https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md)  
 
